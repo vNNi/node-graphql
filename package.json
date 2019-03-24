@@ -19,6 +19,8 @@
   "homepage": "https://github.com/vNNi/node-graphql#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
     "nodemon": "^1.18.10"
   }
 }
